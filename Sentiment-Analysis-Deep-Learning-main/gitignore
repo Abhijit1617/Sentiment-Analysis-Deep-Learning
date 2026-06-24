@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+env/
+tf_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# SQLite Databases
+*.db
+
+# Model Files
+*.h5
+*.pkl
+
+# Logs
+*.log

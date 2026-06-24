@@ -1,0 +1,11 @@
+tensorflow
+flask
+numpy
+pandas
+scikit-learn
+matplotlib
+pickle-mixin
+werkzeug
+jinja2
+itsdangerous
+click
