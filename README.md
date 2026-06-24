@@ -110,4 +110,4 @@ Open the browser →
 ---
 
 ## 👨‍💻 Author  
-**Gopal Rathod**
+**Abhijit Zade**
